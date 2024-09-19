@@ -1,0 +1,6692 @@
+{
+"Hoja1":[
+ {
+  "Departamento": "AMAZONAS",
+  "Municipio": "LETICIA",
+  "Centro poblado": "LETICIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "AMAZONAS",
+  "Municipio": "PUERTO NARIÑO",
+  "Centro poblado": "PUERTO NARIÑO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ABEJORRAL",
+  "Centro poblado": "ABEJORRAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ABRIAQUI",
+  "Centro poblado": "ABRIAQUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ALEJANDRIA",
+  "Centro poblado": "ALEJANDRIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "AMAGA",
+  "Centro poblado": "AMAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "AMALFI",
+  "Centro poblado": "AMALFI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ANDES",
+  "Centro poblado": "ANDES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ANGELOPOLIS",
+  "Centro poblado": "ANGELOPOLIS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ANGOSTURA",
+  "Centro poblado": "ANGOSTURA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ANORI",
+  "Centro poblado": "ANORI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ANZA",
+  "Centro poblado": "ANZA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "APARTADO",
+  "Centro poblado": "APARTADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ARBOLETES",
+  "Centro poblado": "ARBOLETES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ARGELIA",
+  "Centro poblado": "ARGELIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ARMENIA",
+  "Centro poblado": "ARMENIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BARBOSA",
+  "Centro poblado": "BARBOSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BELLO",
+  "Centro poblado": "BELLO",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BELMIRA",
+  "Centro poblado": "BELMIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BETANIA",
+  "Centro poblado": "BETANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BETULIA",
+  "Centro poblado": "BETULIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BRICEÑO",
+  "Centro poblado": "BRICEÑO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "BURITICA",
+  "Centro poblado": "BURITICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CACERES",
+  "Centro poblado": "CACERES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CAICEDO",
+  "Centro poblado": "CAICEDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CALDAS",
+  "Centro poblado": "CALDAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CAMPAMENTO",
+  "Centro poblado": "CAMPAMENTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CAÑASGORDAS",
+  "Centro poblado": "CAÑASGORDAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CARACOLI",
+  "Centro poblado": "CARACOLI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CARAMANTA",
+  "Centro poblado": "CARAMANTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CAREPA",
+  "Centro poblado": "CAREPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CAROLINA",
+  "Centro poblado": "CAROLINA DEL PRINCIPE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CAUCASIA",
+  "Centro poblado": "CAUCASIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CHIGORODO",
+  "Centro poblado": "CHIGORODO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CISNEROS",
+  "Centro poblado": "CISNEROS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CIUDAD BOLIVAR",
+  "Centro poblado": "CIUDAD BOLIVAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "COCORNA",
+  "Centro poblado": "COCORNA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CONCEPCION",
+  "Centro poblado": "CONCEPCION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "CONCORDIA",
+  "Centro poblado": "CONCORDIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "COPACABANA",
+  "Centro poblado": "COPACABANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "DABEIBA",
+  "Centro poblado": "DABEIBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "DONMATIAS",
+  "Centro poblado": "DONMATIAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "EBEJICO",
+  "Centro poblado": "EBEJICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "EL BAGRE",
+  "Centro poblado": "EL BAGRE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "EL CARMEN DE VIBORAL",
+  "Centro poblado": "EL CARMEN DE VIBORAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "EL SANTUARIO",
+  "Centro poblado": "EL SANTUARIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ENTRERRIOS",
+  "Centro poblado": "ENTRERRIOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ENVIGADO",
+  "Centro poblado": "ENVIGADO",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "FREDONIA",
+  "Centro poblado": "FREDONIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "FRONTINO",
+  "Centro poblado": "FRONTINO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GIRALDO",
+  "Centro poblado": "GIRALDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GIRARDOTA",
+  "Centro poblado": "GIRARDOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GOMEZ PLATA",
+  "Centro poblado": "GOMEZ PLATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GRANADA",
+  "Centro poblado": "GRANADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GUADALUPE",
+  "Centro poblado": "GUADALUPE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GUARNE",
+  "Centro poblado": "GUARNE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "GUATAPE",
+  "Centro poblado": "GUATAPE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "HELICONIA",
+  "Centro poblado": "HELICONIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "HISPANIA",
+  "Centro poblado": "HISPANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ITAGÜI",
+  "Centro poblado": "ITAGÜI",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ITUANGO",
+  "Centro poblado": "ITUANGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "JARDIN",
+  "Centro poblado": "JARDIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "JERICO",
+  "Centro poblado": "JERICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "LA CEJA",
+  "Centro poblado": "LA CEJA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "LA ESTRELLA",
+  "Centro poblado": "LA ESTRELLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "LA PINTADA",
+  "Centro poblado": "LA PINTADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "LA UNION",
+  "Centro poblado": "LA UNION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "LIBORINA",
+  "Centro poblado": "LIBORINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "MACEO",
+  "Centro poblado": "MACEO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "MARINILLA",
+  "Centro poblado": "MARINILLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "MEDELLIN",
+  "Centro poblado": "MEDELLIN, DISTRITO ESPECIAL DE CIENCIA, TECNOLOGIA E INNOVACION",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "MONTEBELLO",
+  "Centro poblado": "MONTEBELLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "MURINDO",
+  "Centro poblado": "MURINDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "MUTATA",
+  "Centro poblado": "MUTATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "NARIÑO",
+  "Centro poblado": "NARIÑO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "NECHI",
+  "Centro poblado": "NECHI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "NECOCLI",
+  "Centro poblado": "NECOCLI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "OLAYA",
+  "Centro poblado": "OLAYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "PEÑOL",
+  "Centro poblado": "PEÑOL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "PEQUE",
+  "Centro poblado": "PEQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "PUEBLORRICO",
+  "Centro poblado": "PUEBLORRICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "PUERTO BERRIO",
+  "Centro poblado": "PUERTO BERRIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "PUERTO NARE",
+  "Centro poblado": "PUERTO NARE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "PUERTO TRIUNFO",
+  "Centro poblado": "PUERTO TRIUNFO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "REMEDIOS",
+  "Centro poblado": "REMEDIOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "RETIRO",
+  "Centro poblado": "RETIRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "RIONEGRO",
+  "Centro poblado": "RIONEGRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SABANALARGA",
+  "Centro poblado": "SABANALARGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SABANETA",
+  "Centro poblado": "SABANETA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SALGAR",
+  "Centro poblado": "SALGAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN ANDRES DE CUERQUIA",
+  "Centro poblado": "SAN ANDRES DE CUERQUIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN CARLOS",
+  "Centro poblado": "SAN CARLOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN FRANCISCO",
+  "Centro poblado": "SAN FRANCISCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN JERONIMO",
+  "Centro poblado": "SAN JERONIMO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN JOSE DE LA MONTAÑA",
+  "Centro poblado": "SAN JOSE DE LA MONTAÑA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN JUAN DE URABA",
+  "Centro poblado": "SAN JUAN DE URABA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN LUIS",
+  "Centro poblado": "SAN LUIS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN PEDRO DE LOS MILAGROS",
+  "Centro poblado": "SAN PEDRO DE LOS MILAGROS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN PEDRO DE URABA",
+  "Centro poblado": "SAN PEDRO DE URABA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN RAFAEL",
+  "Centro poblado": "SAN RAFAEL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN ROQUE",
+  "Centro poblado": "SAN ROQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SAN VICENTE FERRER",
+  "Centro poblado": "SAN VICENTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SANTA BARBARA",
+  "Centro poblado": "SANTA BARBARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SANTA FE DE ANTIOQUIA",
+  "Centro poblado": "SANTA FE DE ANTIOQUIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SANTA ROSA DE OSOS",
+  "Centro poblado": "SANTA ROSA DE OSOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SANTO DOMINGO",
+  "Centro poblado": "SANTO DOMINGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SEGOVIA",
+  "Centro poblado": "SEGOVIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SONSON",
+  "Centro poblado": "SONSON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "SOPETRAN",
+  "Centro poblado": "SOPETRAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "TAMESIS",
+  "Centro poblado": "TAMESIS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "TARAZA",
+  "Centro poblado": "TARAZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "TARSO",
+  "Centro poblado": "TARSO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "TITIRIBI",
+  "Centro poblado": "TITIRIBI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "TOLEDO",
+  "Centro poblado": "TOLEDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "TURBO",
+  "Centro poblado": "TURBO, DISTRITO PORTUARIO, LOGISTICO, INDUSTRIAL, TURISTICO Y COMERCIAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "URAMITA",
+  "Centro poblado": "URAMITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "URRAO",
+  "Centro poblado": "URRAO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "VALDIVIA",
+  "Centro poblado": "VALDIVIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "VALPARAISO",
+  "Centro poblado": "VALPARAISO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "VEGACHI",
+  "Centro poblado": "VEGACHI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "VENECIA",
+  "Centro poblado": "VENECIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "VIGIA DEL FUERTE",
+  "Centro poblado": "VIGIA DEL FUERTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "YALI",
+  "Centro poblado": "YALI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "YARUMAL",
+  "Centro poblado": "YARUMAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "YOLOMBO",
+  "Centro poblado": "YOLOMBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "YONDO",
+  "Centro poblado": "YONDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ANTIOQUIA",
+  "Municipio": "ZARAGOZA",
+  "Centro poblado": "ZARAGOZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "ARAUCA",
+  "Centro poblado": "ARAUCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "ARAUQUITA",
+  "Centro poblado": "ARAUQUITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "CRAVO NORTE",
+  "Centro poblado": "CRAVO NORTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "FORTUL",
+  "Centro poblado": "FORTUL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "PUERTO RONDON",
+  "Centro poblado": "PUERTO RONDON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "SARAVENA",
+  "Centro poblado": "SARAVENA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARAUCA",
+  "Municipio": "TAME",
+  "Centro poblado": "TAME",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA",
+  "Municipio": "PROVIDENCIA",
+  "Centro poblado": "SANTA ISABEL",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "ARCHIPIELAGO DE SAN ANDRES, PROVIDENCIA Y SANTA CATALINA",
+  "Municipio": "SAN ANDRES",
+  "Centro poblado": "SAN ANDRES ",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "BARANOA",
+  "Centro poblado": "BARANOA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "BARRANQUILLA",
+  "Centro poblado": "BARRANQUILLA, DISTRITO ESPECIAL, INDUSTRIAL Y PORTUARIO",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "CAMPO DE LA CRUZ",
+  "Centro poblado": "CAMPO DE LA CRUZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "CANDELARIA",
+  "Centro poblado": "CANDELARIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "GALAPA",
+  "Centro poblado": "GALAPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "JUAN DE ACOSTA",
+  "Centro poblado": "JUAN DE ACOSTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "LURUACO",
+  "Centro poblado": "LURUACO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "MALAMBO",
+  "Centro poblado": "MALAMBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "MANATI",
+  "Centro poblado": "MANATI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "PALMAR DE VARELA",
+  "Centro poblado": "PALMAR DE VARELA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "PIOJO",
+  "Centro poblado": "PIOJO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "POLONUEVO",
+  "Centro poblado": "POLONUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "PONEDERA",
+  "Centro poblado": "PONEDERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "PUERTO COLOMBIA",
+  "Centro poblado": "PUERTO COLOMBIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "REPELON",
+  "Centro poblado": "REPELON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "SABANAGRANDE",
+  "Centro poblado": "SABANAGRANDE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "SABANALARGA",
+  "Centro poblado": "SABANALARGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "SANTA LUCIA",
+  "Centro poblado": "SANTA LUCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "SANTO TOMAS",
+  "Centro poblado": "SANTO TOMAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "SOLEDAD",
+  "Centro poblado": "SOLEDAD",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "SUAN",
+  "Centro poblado": "SUAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "TUBARA",
+  "Centro poblado": "TUBARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "ATLANTICO",
+  "Municipio": "USIACURI",
+  "Centro poblado": "USIACURI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOGOTA, D.C.",
+  "Municipio": "BOGOTA, D.C.",
+  "Centro poblado": "BOGOTA, DISTRITO CAPITAL",
+  "TRANSPORTADORA": "LOGISTICA EFFI"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "ACHI",
+  "Centro poblado": "ACHI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "ALTOS DEL ROSARIO",
+  "Centro poblado": "ALTOS DEL ROSARIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "ARENAL",
+  "Centro poblado": "ARENAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "ARJONA",
+  "Centro poblado": "ARJONA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "ARROYOHONDO",
+  "Centro poblado": "ARROYOHONDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "BARRANCO DE LOBA",
+  "Centro poblado": "BARRANCO DE LOBA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "CALAMAR",
+  "Centro poblado": "CALAMAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "CANTAGALLO",
+  "Centro poblado": "CANTAGALLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "CARTAGENA DE INDIAS",
+  "Centro poblado": "CARTAGENA DE INDIAS, DISTRITO TURISTICO Y CULTURAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "CICUCO",
+  "Centro poblado": "CICUCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "CLEMENCIA",
+  "Centro poblado": "CLEMENCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "CORDOBA",
+  "Centro poblado": "CORDOBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "EL CARMEN DE BOLIVAR",
+  "Centro poblado": "EL CARMEN DE BOLIVAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "EL GUAMO",
+  "Centro poblado": "EL GUAMO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "EL PEÑON",
+  "Centro poblado": "EL PEÑON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "HATILLO DE LOBA",
+  "Centro poblado": "HATILLO DE LOBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "MAGANGUE",
+  "Centro poblado": "MAGANGUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "MAHATES",
+  "Centro poblado": "MAHATES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "MARGARITA",
+  "Centro poblado": "MARGARITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "MARIA LA BAJA",
+  "Centro poblado": "MARIA LA BAJA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "MONTECRISTO",
+  "Centro poblado": "MONTECRISTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "MORALES",
+  "Centro poblado": "MORALES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "NOROSI",
+  "Centro poblado": "NOROSI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "PINILLOS",
+  "Centro poblado": "PINILLOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "REGIDOR",
+  "Centro poblado": "REGIDOR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "RIO VIEJO",
+  "Centro poblado": "RIO VIEJO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN CRISTOBAL",
+  "Centro poblado": "SAN CRISTOBAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN ESTANISLAO",
+  "Centro poblado": "SAN ESTANISLAO DE KOSTKA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN FERNANDO",
+  "Centro poblado": "SAN FERNANDO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN JACINTO",
+  "Centro poblado": "SAN JACINTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN JACINTO DEL CAUCA",
+  "Centro poblado": "SAN JACINTO DEL CAUCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN JUAN NEPOMUCENO",
+  "Centro poblado": "SAN JUAN NEPOMUCENO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN MARTIN DE LOBA",
+  "Centro poblado": "SAN MARTIN DE LOBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SAN PABLO",
+  "Centro poblado": "SAN PABLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SANTA CATALINA",
+  "Centro poblado": "SANTA CATALINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SANTA CRUZ DE MOMPOX",
+  "Centro poblado": "SANTA CRUZ DE MOMPOX, DISTRITO ESPECIAL, TURISTICO, CULTURAL E HISTORICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SANTA ROSA",
+  "Centro poblado": "SANTA ROSA DE LIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SANTA ROSA DEL SUR",
+  "Centro poblado": "SANTA ROSA DEL SUR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SIMITI",
+  "Centro poblado": "SIMITI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "SOPLAVIENTO",
+  "Centro poblado": "SOPLAVIENTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "TALAIGUA NUEVO",
+  "Centro poblado": "TALAIGUA NUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "TIQUISIO",
+  "Centro poblado": "PUERTO RICO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "TURBACO",
+  "Centro poblado": "TURBACO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "TURBANA",
+  "Centro poblado": "TURBANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "VILLANUEVA",
+  "Centro poblado": "VILLANUEVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOLIVAR",
+  "Municipio": "ZAMBRANO",
+  "Centro poblado": "ZAMBRANO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "ALMEIDA",
+  "Centro poblado": "ALMEIDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "AQUITANIA",
+  "Centro poblado": "AQUITANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "ARCABUCO",
+  "Centro poblado": "ARCABUCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BELEN",
+  "Centro poblado": "BELEN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BERBEO",
+  "Centro poblado": "BERBEO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BETEITIVA",
+  "Centro poblado": "BETEITIVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BOAVITA",
+  "Centro poblado": "BOAVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BOYACA",
+  "Centro poblado": "BOYACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BRICEÑO",
+  "Centro poblado": "BRICEÑO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BUENAVISTA",
+  "Centro poblado": "BUENAVISTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "BUSBANZA",
+  "Centro poblado": "BUSBANZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CALDAS",
+  "Centro poblado": "CALDAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CAMPOHERMOSO",
+  "Centro poblado": "CAMPOHERMOSO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CERINZA",
+  "Centro poblado": "CERINZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHINAVITA",
+  "Centro poblado": "CHINAVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHIQUINQUIRA",
+  "Centro poblado": "CHIQUINQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHIQUIZA",
+  "Centro poblado": "SAN PEDRO DE IGUAQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHISCAS",
+  "Centro poblado": "CHISCAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHITA",
+  "Centro poblado": "CHITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHITARAQUE",
+  "Centro poblado": "CHITARAQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHIVATA",
+  "Centro poblado": "CHIVATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CHIVOR",
+  "Centro poblado": "CHIVOR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CIENEGA",
+  "Centro poblado": "CIENEGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "COMBITA",
+  "Centro poblado": "COMBITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "COPER",
+  "Centro poblado": "COPER",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CORRALES",
+  "Centro poblado": "CORRALES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "COVARACHIA",
+  "Centro poblado": "COVARACHIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CUBARA",
+  "Centro poblado": "CUBARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CUCAITA",
+  "Centro poblado": "CUCAITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "CUITIVA",
+  "Centro poblado": "CUITIVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "DUITAMA",
+  "Centro poblado": "DUITAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "EL COCUY",
+  "Centro poblado": "EL COCUY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "EL ESPINO",
+  "Centro poblado": "EL ESPINO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "FIRAVITOBA",
+  "Centro poblado": "FIRAVITOBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "FLORESTA",
+  "Centro poblado": "FLORESTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GACHANTIVA",
+  "Centro poblado": "GACHANTIVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GAMEZA",
+  "Centro poblado": "GAMEZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GARAGOA",
+  "Centro poblado": "GARAGOA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GUACAMAYAS",
+  "Centro poblado": "GUACAMAYAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GUATEQUE",
+  "Centro poblado": "GUATEQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GUAYATA",
+  "Centro poblado": "GUAYATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "GÜICAN DE LA SIERRA",
+  "Centro poblado": "GÜICAN DE LA SIERRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "IZA",
+  "Centro poblado": "IZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "JENESANO",
+  "Centro poblado": "JENESANO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "JERICO",
+  "Centro poblado": "JERICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "LA CAPILLA",
+  "Centro poblado": "LA CAPILLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "LA UVITA",
+  "Centro poblado": "LA UVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "LA VICTORIA",
+  "Centro poblado": "LA VICTORIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "LABRANZAGRANDE",
+  "Centro poblado": "LABRANZAGRANDE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MACANAL",
+  "Centro poblado": "MACANAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MARIPI",
+  "Centro poblado": "MARIPI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MIRAFLORES",
+  "Centro poblado": "MIRAFLORES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MONGUA",
+  "Centro poblado": "MONGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MONGUI",
+  "Centro poblado": "MONGUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MONIQUIRA",
+  "Centro poblado": "MONIQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MOTAVITA",
+  "Centro poblado": "MOTAVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "MUZO",
+  "Centro poblado": "MUZO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "NOBSA",
+  "Centro poblado": "NOBSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "NUEVO COLON",
+  "Centro poblado": "NUEVO COLON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "OICATA",
+  "Centro poblado": "OICATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "OTANCHE",
+  "Centro poblado": "OTANCHE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PACHAVITA",
+  "Centro poblado": "PACHAVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PAEZ",
+  "Centro poblado": "PAEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PAIPA",
+  "Centro poblado": "PAIPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PAJARITO",
+  "Centro poblado": "PAJARITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PANQUEBA",
+  "Centro poblado": "PANQUEBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PAUNA",
+  "Centro poblado": "PAUNA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PAYA",
+  "Centro poblado": "PAYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PAZ DE RIO",
+  "Centro poblado": "PAZ DE RIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PESCA",
+  "Centro poblado": "PESCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PISBA",
+  "Centro poblado": "PISBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "PUERTO BOYACA",
+  "Centro poblado": "PUERTO BOYACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "QUIPAMA",
+  "Centro poblado": "QUIPAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "RAMIRIQUI",
+  "Centro poblado": "RAMIRIQUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "RAQUIRA",
+  "Centro poblado": "RAQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "RONDON",
+  "Centro poblado": "RONDON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SABOYA",
+  "Centro poblado": "SABOYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SACHICA",
+  "Centro poblado": "SACHICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAMACA",
+  "Centro poblado": "SAMACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAN EDUARDO",
+  "Centro poblado": "SAN EDUARDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAN JOSE DE PARE",
+  "Centro poblado": "SAN JOSE DE PARE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAN LUIS DE GACENO",
+  "Centro poblado": "SAN LUIS DE GACENO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAN MATEO",
+  "Centro poblado": "SAN MATEO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAN MIGUEL DE SEMA",
+  "Centro poblado": "SAN MIGUEL DE SEMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SAN PABLO DE BORBUR",
+  "Centro poblado": "SAN PABLO DE BORBUR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SANTA MARIA",
+  "Centro poblado": "SANTA MARIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SANTA ROSA DE VITERBO",
+  "Centro poblado": "SANTA ROSA DE VITERBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SANTA SOFIA",
+  "Centro poblado": "SANTA SOFIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SANTANA",
+  "Centro poblado": "SANTANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SATIVANORTE",
+  "Centro poblado": "SATIVANORTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SATIVASUR",
+  "Centro poblado": "SATIVASUR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SIACHOQUE",
+  "Centro poblado": "SIACHOQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SOATA",
+  "Centro poblado": "SOATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SOCHA",
+  "Centro poblado": "SOCHA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SOCOTA",
+  "Centro poblado": "SOCOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SOGAMOSO",
+  "Centro poblado": "SOGAMOSO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SOMONDOCO",
+  "Centro poblado": "SOMONDOCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SORA",
+  "Centro poblado": "SORA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SORACA",
+  "Centro poblado": "SORACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SOTAQUIRA",
+  "Centro poblado": "SOTAQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SUSACON",
+  "Centro poblado": "SUSACON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SUTAMARCHAN",
+  "Centro poblado": "SUTAMARCHAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "SUTATENZA",
+  "Centro poblado": "SUTATENZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TASCO",
+  "Centro poblado": "TASCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TENZA",
+  "Centro poblado": "TENZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TIBANA",
+  "Centro poblado": "TIBANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TIBASOSA",
+  "Centro poblado": "TIBASOSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TINJACA",
+  "Centro poblado": "TINJACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TIPACOQUE",
+  "Centro poblado": "TIPACOQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TOCA",
+  "Centro poblado": "TOCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TOGÜI",
+  "Centro poblado": "TOGÜI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TOPAGA",
+  "Centro poblado": "TOPAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TOTA",
+  "Centro poblado": "TOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TUNJA",
+  "Centro poblado": "TUNJA",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TUNUNGUA",
+  "Centro poblado": "TUNUNGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TURMEQUE",
+  "Centro poblado": "TURMEQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TUTA",
+  "Centro poblado": "TUTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "TUTAZA",
+  "Centro poblado": "TUTAZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "UMBITA",
+  "Centro poblado": "UMBITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "VENTAQUEMADA",
+  "Centro poblado": "VENTAQUEMADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "VILLA DE LEYVA",
+  "Centro poblado": "VILLA DE LEYVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "VIRACACHA",
+  "Centro poblado": "VIRACACHA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "BOYACA",
+  "Municipio": "ZETAQUIRA",
+  "Centro poblado": "ZETAQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "AGUADAS",
+  "Centro poblado": "AGUADAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "ANSERMA",
+  "Centro poblado": "ANSERMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "ARANZAZU",
+  "Centro poblado": "ARANZAZU",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "BELALCAZAR",
+  "Centro poblado": "BELALCAZAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "CHINCHINA",
+  "Centro poblado": "CHINCHINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "FILADELFIA",
+  "Centro poblado": "FILADELFIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "LA DORADA",
+  "Centro poblado": "LA DORADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "LA MERCED",
+  "Centro poblado": "LA MERCED",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "MANIZALES",
+  "Centro poblado": "MANIZALES",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "MANZANARES",
+  "Centro poblado": "MANZANARES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "MARMATO",
+  "Centro poblado": "MARMATO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "MARQUETALIA",
+  "Centro poblado": "MARQUETALIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "MARULANDA",
+  "Centro poblado": "MARULANDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "NEIRA",
+  "Centro poblado": "NEIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "NORCASIA",
+  "Centro poblado": "NORCASIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "PACORA",
+  "Centro poblado": "PACORA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "PALESTINA",
+  "Centro poblado": "PALESTINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "PENSILVANIA",
+  "Centro poblado": "PENSILVANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "RIOSUCIO",
+  "Centro poblado": "RIOSUCIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "RISARALDA",
+  "Centro poblado": "RISARALDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "SALAMINA",
+  "Centro poblado": "SALAMINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "SAMANA",
+  "Centro poblado": "SAMANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "SAN JOSE",
+  "Centro poblado": "SAN JOSE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "SUPIA",
+  "Centro poblado": "SUPIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "VICTORIA",
+  "Centro poblado": "VICTORIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "VILLAMARIA",
+  "Centro poblado": "VILLAMARIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CALDAS",
+  "Municipio": "VITERBO",
+  "Centro poblado": "VITERBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "ALBANIA",
+  "Centro poblado": "ALBANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "BELEN DE LOS ANDAQUIES",
+  "Centro poblado": "BELEN DE LOS ANDAQUIES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "CARTAGENA DEL CHAIRA",
+  "Centro poblado": "CARTAGENA DEL CHAIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "CURILLO",
+  "Centro poblado": "CURILLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "EL DONCELLO",
+  "Centro poblado": "EL DONCELLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "EL PAUJIL",
+  "Centro poblado": "EL PAUJIL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "FLORENCIA",
+  "Centro poblado": "FLORENCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "LA MONTAÑITA",
+  "Centro poblado": "LA MONTAÑITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "MILAN",
+  "Centro poblado": "MILAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "MORELIA",
+  "Centro poblado": "MORELIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "PUERTO RICO",
+  "Centro poblado": "PUERTO RICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "SAN JOSE DEL FRAGUA",
+  "Centro poblado": "SAN JOSE DEL FRAGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "SAN VICENTE DEL CAGUAN",
+  "Centro poblado": "SAN VICENTE DEL CAGUAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "SOLANO",
+  "Centro poblado": "SOLANO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "SOLITA",
+  "Centro poblado": "SOLITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAQUETA",
+  "Municipio": "VALPARAISO",
+  "Centro poblado": "VALPARAISO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "AGUAZUL",
+  "Centro poblado": "AGUAZUL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "CHAMEZA",
+  "Centro poblado": "CHAMEZA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "HATO COROZAL",
+  "Centro poblado": "HATO COROZAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "LA SALINA",
+  "Centro poblado": "LA SALINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "MANI",
+  "Centro poblado": "MANI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "MONTERREY",
+  "Centro poblado": "MONTERREY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "NUNCHIA",
+  "Centro poblado": "NUNCHIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "OROCUE",
+  "Centro poblado": "OROCUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "PAZ DE ARIPORO",
+  "Centro poblado": "PAZ DE ARIPORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "PORE",
+  "Centro poblado": "PORE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "RECETOR",
+  "Centro poblado": "RECETOR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "SABANALARGA",
+  "Centro poblado": "SABANALARGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "SACAMA",
+  "Centro poblado": "SACAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "SAN LUIS DE PALENQUE",
+  "Centro poblado": "SAN LUIS DE PALENQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "TAMARA",
+  "Centro poblado": "TAMARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "TAURAMENA",
+  "Centro poblado": "TAURAMENA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "TRINIDAD",
+  "Centro poblado": "TRINIDAD",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "VILLANUEVA",
+  "Centro poblado": "VILLANUEVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CASANARE",
+  "Municipio": "YOPAL",
+  "Centro poblado": "YOPAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "ALMAGUER",
+  "Centro poblado": "ALMAGUER",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "ARGELIA",
+  "Centro poblado": "ARGELIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "BALBOA",
+  "Centro poblado": "BALBOA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "BOLIVAR",
+  "Centro poblado": "BOLIVAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "BUENOS AIRES",
+  "Centro poblado": "BUENOS AIRES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "CAJIBIO",
+  "Centro poblado": "CAJIBIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "CALDONO",
+  "Centro poblado": "CALDONO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "CALOTO",
+  "Centro poblado": "CALOTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "CORINTO",
+  "Centro poblado": "CORINTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "EL TAMBO",
+  "Centro poblado": "EL TAMBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "FLORENCIA",
+  "Centro poblado": "FLORENCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "GUACHENE",
+  "Centro poblado": "GUACHENE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "GUAPI",
+  "Centro poblado": "GUAPI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "INZA",
+  "Centro poblado": "INZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "JAMBALO",
+  "Centro poblado": "JAMBALO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "LA SIERRA",
+  "Centro poblado": "LA SIERRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "LA VEGA",
+  "Centro poblado": "LA VEGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "LOPEZ DE MICAY",
+  "Centro poblado": "LOPEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "MERCADERES",
+  "Centro poblado": "MERCADERES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "MIRANDA",
+  "Centro poblado": "MIRANDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "MORALES",
+  "Centro poblado": "MORALES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PADILLA",
+  "Centro poblado": "PADILLA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PAEZ",
+  "Centro poblado": "BELALCAZAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PATIA",
+  "Centro poblado": "EL BORDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PIAMONTE",
+  "Centro poblado": "PIAMONTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PIENDAMO - TUNIA",
+  "Centro poblado": "PIENDAMO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "POPAYAN",
+  "Centro poblado": "POPAYAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PUERTO TEJADA",
+  "Centro poblado": "PUERTO TEJADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "PURACE",
+  "Centro poblado": "COCONUCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "ROSAS",
+  "Centro poblado": "ROSAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SAN SEBASTIAN",
+  "Centro poblado": "SAN SEBASTIAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SANTA ROSA",
+  "Centro poblado": "SANTA ROSA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SANTANDER DE QUILICHAO",
+  "Centro poblado": "SANTANDER DE QUILICHAO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SILVIA",
+  "Centro poblado": "SILVIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SOTARA - PAISPAMBA",
+  "Centro poblado": "PAISPAMBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SUAREZ",
+  "Centro poblado": "SUAREZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "SUCRE",
+  "Centro poblado": "SUCRE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "TIMBIO",
+  "Centro poblado": "TIMBIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "TIMBIQUI",
+  "Centro poblado": "TIMBIQUI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "TORIBIO",
+  "Centro poblado": "TORIBIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "TOTORO",
+  "Centro poblado": "TOTORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CAUCA",
+  "Municipio": "VILLA RICA",
+  "Centro poblado": "VILLA RICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "AGUACHICA",
+  "Centro poblado": "AGUACHICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "AGUSTIN CODAZZI",
+  "Centro poblado": "AGUSTIN CODAZZI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "ASTREA",
+  "Centro poblado": "ASTREA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "BECERRIL",
+  "Centro poblado": "BECERRIL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "BOSCONIA",
+  "Centro poblado": "BOSCONIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "CHIMICHAGUA",
+  "Centro poblado": "CHIMICHAGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "CHIRIGUANA",
+  "Centro poblado": "CHIRIGUANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "CURUMANI",
+  "Centro poblado": "CURUMANI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "EL COPEY",
+  "Centro poblado": "EL COPEY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "EL PASO",
+  "Centro poblado": "EL PASO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "GAMARRA",
+  "Centro poblado": "GAMARRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "GONZALEZ",
+  "Centro poblado": "GONZALEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "LA GLORIA",
+  "Centro poblado": "LA GLORIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "LA JAGUA DE IBIRICO",
+  "Centro poblado": "LA JAGUA DE IBIRICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "LA PAZ",
+  "Centro poblado": "ROBLES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "MANAURE BALCON DEL CESAR",
+  "Centro poblado": "MANAURE BALCON DEL CESAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "PAILITAS",
+  "Centro poblado": "PAILITAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "PELAYA",
+  "Centro poblado": "PELAYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "PUEBLO BELLO",
+  "Centro poblado": "PUEBLO BELLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "RIO DE ORO",
+  "Centro poblado": "RIO DE ORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "SAN ALBERTO",
+  "Centro poblado": "SAN ALBERTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "SAN DIEGO",
+  "Centro poblado": "SAN DIEGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "SAN MARTIN",
+  "Centro poblado": "SAN MARTIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "TAMALAMEQUE",
+  "Centro poblado": "TAMALAMEQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CESAR",
+  "Municipio": "VALLEDUPAR",
+  "Centro poblado": "VALLEDUPAR",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "ACANDI",
+  "Centro poblado": "ACANDI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "ALTO BAUDO",
+  "Centro poblado": "PIE DE PATO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "ATRATO",
+  "Centro poblado": "YUTO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "BAGADO",
+  "Centro poblado": "BAGADO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "BAHIA SOLANO",
+  "Centro poblado": "CIUDAD MUTIS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "BAJO BAUDO",
+  "Centro poblado": "PIZARRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "BELEN DE BAJIRA",
+  "Centro poblado": "BELEN DE BAJIRA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "BOJAYA",
+  "Centro poblado": "BELLAVISTA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "CARMEN DEL DARIEN",
+  "Centro poblado": "CURBARADO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "CERTEGUI",
+  "Centro poblado": "CERTEGUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "CONDOTO",
+  "Centro poblado": "CONDOTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "EL CANTON DEL SAN PABLO",
+  "Centro poblado": "MANAGRU",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "EL CARMEN DE ATRATO",
+  "Centro poblado": "EL CARMEN DE ATRATO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "EL LITORAL DEL SAN JUAN",
+  "Centro poblado": "SANTA GENOVEVA DE DOCORDO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "ISTMINA",
+  "Centro poblado": "ISTMINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "JURADO",
+  "Centro poblado": "JURADO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "LLORO",
+  "Centro poblado": "LLORO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "MEDIO ATRATO",
+  "Centro poblado": "BETE",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "MEDIO BAUDO",
+  "Centro poblado": "PUERTO MELUK",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "MEDIO SAN JUAN",
+  "Centro poblado": "ANDAGOYA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "NOVITA",
+  "Centro poblado": "NOVITA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "NUQUI",
+  "Centro poblado": "NUQUI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "QUIBDO",
+  "Centro poblado": "SAN FRANCISCO DE QUIBDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "RIO IRO",
+  "Centro poblado": "SANTA RITA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "RIO QUITO",
+  "Centro poblado": "PAIMADO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "RIOSUCIO",
+  "Centro poblado": "RIOSUCIO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "SAN JOSE DEL PALMAR",
+  "Centro poblado": "SAN JOSE DEL PALMAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "SIPI",
+  "Centro poblado": "SIPI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "TADO",
+  "Centro poblado": "TADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "UNGUIA",
+  "Centro poblado": "UNGUIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CHOCO",
+  "Municipio": "UNION PANAMERICANA",
+  "Centro poblado": "ANIMAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "AYAPEL",
+  "Centro poblado": "AYAPEL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "BUENAVISTA",
+  "Centro poblado": "BUENAVISTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "CANALETE",
+  "Centro poblado": "CANALETE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "CERETE",
+  "Centro poblado": "CERETE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "CHIMA",
+  "Centro poblado": "CHIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "CHINU",
+  "Centro poblado": "CHINU",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "CIENAGA DE ORO",
+  "Centro poblado": "CIENAGA DE ORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "COTORRA",
+  "Centro poblado": "COTORRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "LA APARTADA",
+  "Centro poblado": "LA APARTADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "LORICA",
+  "Centro poblado": "SANTA CRUZ DE LORICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "LOS CORDOBAS",
+  "Centro poblado": "LOS CORDOBAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "MOMIL",
+  "Centro poblado": "MOMIL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "MONTELIBANO",
+  "Centro poblado": "MONTELIBANO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "MONTERIA",
+  "Centro poblado": "MONTERIA",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "MOÑITOS",
+  "Centro poblado": "MOÑITOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "PLANETA RICA",
+  "Centro poblado": "PLANETA RICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "PUEBLO NUEVO",
+  "Centro poblado": "PUEBLO NUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "PUERTO ESCONDIDO",
+  "Centro poblado": "PUERTO ESCONDIDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "PUERTO LIBERTADOR",
+  "Centro poblado": "PUERTO LIBERTADOR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "PURISIMA DE LA CONCEPCION",
+  "Centro poblado": "PURISIMA DE LA CONCEPCION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAHAGUN",
+  "Centro poblado": "SAHAGUN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAN ANDRES DE SOTAVENTO",
+  "Centro poblado": "SAN ANDRES DE SOTAVENTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAN ANTERO",
+  "Centro poblado": "SAN ANTERO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAN BERNARDO DEL VIENTO",
+  "Centro poblado": "SAN BERNARDO DEL VIENTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAN CARLOS",
+  "Centro poblado": "SAN CARLOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAN JOSE DE URE",
+  "Centro poblado": "SAN JOSE DE URE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "SAN PELAYO",
+  "Centro poblado": "SAN PELAYO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "TIERRALTA",
+  "Centro poblado": "TIERRALTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "TUCHIN",
+  "Centro poblado": "TUCHIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CORDOBA",
+  "Municipio": "VALENCIA",
+  "Centro poblado": "VALENCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "AGUA DE DIOS",
+  "Centro poblado": "AGUA DE DIOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "ALBAN",
+  "Centro poblado": "ALBAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "ANAPOIMA",
+  "Centro poblado": "ANAPOIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "ANOLAIMA",
+  "Centro poblado": "ANOLAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "APULO",
+  "Centro poblado": "APULO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "ARBELAEZ",
+  "Centro poblado": "ARBELAEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "BELTRAN",
+  "Centro poblado": "BELTRAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "BITUIMA",
+  "Centro poblado": "BITUIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "BOJACA",
+  "Centro poblado": "BOJACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CABRERA",
+  "Centro poblado": "CABRERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CACHIPAY",
+  "Centro poblado": "CACHIPAY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CAJICA",
+  "Centro poblado": "CAJICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CAPARRAPI",
+  "Centro poblado": "CAPARRAPI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CAQUEZA",
+  "Centro poblado": "CAQUEZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CARMEN DE CARUPA",
+  "Centro poblado": "CARMEN DE CARUPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CHAGUANI",
+  "Centro poblado": "CHAGUANI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CHIA",
+  "Centro poblado": "CHIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CHIPAQUE",
+  "Centro poblado": "CHIPAQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CHOACHI",
+  "Centro poblado": "CHOACHI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CHOCONTA",
+  "Centro poblado": "CHOCONTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "COGUA",
+  "Centro poblado": "COGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "COTA",
+  "Centro poblado": "COTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "CUCUNUBA",
+  "Centro poblado": "CUCUNUBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "EL COLEGIO",
+  "Centro poblado": "EL COLEGIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "EL PEÑON",
+  "Centro poblado": "EL PEÑON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "EL ROSAL",
+  "Centro poblado": "EL ROSAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "FACATATIVA",
+  "Centro poblado": "FACATATIVA",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "FOMEQUE",
+  "Centro poblado": "FOMEQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "FOSCA",
+  "Centro poblado": "FOSCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "FUNZA",
+  "Centro poblado": "FUNZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "FUQUENE",
+  "Centro poblado": "FUQUENE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "FUSAGASUGA",
+  "Centro poblado": "FUSAGASUGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GACHALA",
+  "Centro poblado": "GACHALA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GACHANCIPA",
+  "Centro poblado": "GACHANCIPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GACHETA",
+  "Centro poblado": "GACHETA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GAMA",
+  "Centro poblado": "GAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GIRARDOT",
+  "Centro poblado": "GIRARDOT",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GRANADA",
+  "Centro poblado": "GRANADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUACHETA",
+  "Centro poblado": "GUACHETA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUADUAS",
+  "Centro poblado": "GUADUAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUASCA",
+  "Centro poblado": "GUASCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUATAQUI",
+  "Centro poblado": "GUATAQUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUATAVITA",
+  "Centro poblado": "GUATAVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUAYABAL DE SIQUIMA",
+  "Centro poblado": "GUAYABAL DE SIQUIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUAYABETAL",
+  "Centro poblado": "GUAYABETAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "GUTIERREZ",
+  "Centro poblado": "GUTIERREZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "JERUSALEN",
+  "Centro poblado": "JERUSALEN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "JUNIN",
+  "Centro poblado": "JUNIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "LA CALERA",
+  "Centro poblado": "LA CALERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "LA MESA",
+  "Centro poblado": "LA MESA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "LA PALMA",
+  "Centro poblado": "LA PALMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "LA PEÑA",
+  "Centro poblado": "LA PEÑA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "LA VEGA",
+  "Centro poblado": "LA VEGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "LENGUAZAQUE",
+  "Centro poblado": "LENGUAZAQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "MACHETA",
+  "Centro poblado": "MACHETA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "MADRID",
+  "Centro poblado": "MADRID",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "MANTA",
+  "Centro poblado": "MANTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "MEDINA",
+  "Centro poblado": "MEDINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "MOSQUERA",
+  "Centro poblado": "MOSQUERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "NARIÑO",
+  "Centro poblado": "NARIÑO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "NEMOCON",
+  "Centro poblado": "NEMOCON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "NILO",
+  "Centro poblado": "NILO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "NIMAIMA",
+  "Centro poblado": "NIMAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "NOCAIMA",
+  "Centro poblado": "NOCAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PACHO",
+  "Centro poblado": "PACHO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PAIME",
+  "Centro poblado": "PAIME",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PANDI",
+  "Centro poblado": "PANDI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PARATEBUENO",
+  "Centro poblado": "PARATEBUENO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PASCA",
+  "Centro poblado": "PASCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PUERTO SALGAR",
+  "Centro poblado": "PUERTO SALGAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "PULI",
+  "Centro poblado": "PULI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "QUEBRADANEGRA",
+  "Centro poblado": "QUEBRADANEGRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "QUETAME",
+  "Centro poblado": "QUETAME",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "QUIPILE",
+  "Centro poblado": "QUIPILE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "RICAURTE",
+  "Centro poblado": "RICAURTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SAN ANTONIO DEL TEQUENDAMA",
+  "Centro poblado": "SAN ANTONIO DEL TEQUENDAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SAN BERNARDO",
+  "Centro poblado": "SAN BERNARDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SAN CAYETANO",
+  "Centro poblado": "PUEBLO NUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SAN FRANCISCO",
+  "Centro poblado": "SAN FRANCISCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SAN JUAN DE RIOSECO",
+  "Centro poblado": "SAN JUAN DE RIOSECO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SASAIMA",
+  "Centro poblado": "SASAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SESQUILE",
+  "Centro poblado": "SESQUILE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SIBATE",
+  "Centro poblado": "SIBATE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SILVANIA",
+  "Centro poblado": "SILVANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SIMIJACA",
+  "Centro poblado": "SIMIJACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SOACHA",
+  "Centro poblado": "SOACHA",
+  "TRANSPORTADORA": "LOGISTICA EFFI"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SOPO",
+  "Centro poblado": "SOPO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SUBACHOQUE",
+  "Centro poblado": "SUBACHOQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SUESCA",
+  "Centro poblado": "SUESCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SUPATA",
+  "Centro poblado": "SUPATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SUSA",
+  "Centro poblado": "SUSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "SUTATAUSA",
+  "Centro poblado": "SUTATAUSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TABIO",
+  "Centro poblado": "TABIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TAUSA",
+  "Centro poblado": "TAUSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TENA",
+  "Centro poblado": "TENA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TENJO",
+  "Centro poblado": "TENJO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TIBACUY",
+  "Centro poblado": "TIBACUY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TIBIRITA",
+  "Centro poblado": "TIBIRITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TOCAIMA",
+  "Centro poblado": "TOCAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TOCANCIPA",
+  "Centro poblado": "TOCANCIPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "TOPAIPI",
+  "Centro poblado": "TOPAIPI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "UBALA",
+  "Centro poblado": "UBALA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "UBAQUE",
+  "Centro poblado": "UBAQUE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "UNE",
+  "Centro poblado": "UNE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "UTICA",
+  "Centro poblado": "UTICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VENECIA",
+  "Centro poblado": "VENECIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VERGARA",
+  "Centro poblado": "VERGARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VIANI",
+  "Centro poblado": "VIANI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VILLA DE SAN DIEGO DE UBATE",
+  "Centro poblado": "VILLA DE SAN DIEGO DE UBATE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VILLAGOMEZ",
+  "Centro poblado": "VILLAGOMEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VILLAPINZON",
+  "Centro poblado": "VILLAPINZON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VILLETA",
+  "Centro poblado": "VILLETA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "VIOTA",
+  "Centro poblado": "VIOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "YACOPI",
+  "Centro poblado": "YACOPI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "ZIPACON",
+  "Centro poblado": "ZIPACON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "CUNDINAMARCA",
+  "Municipio": "ZIPAQUIRA",
+  "Centro poblado": "ZIPAQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "GUAINIA",
+  "Municipio": "BARRANCOMINAS",
+  "Centro poblado": "BARRANCOMINAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "GUAINIA",
+  "Municipio": "INIRIDA",
+  "Centro poblado": "INIRIDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "GUAVIARE",
+  "Municipio": "CALAMAR",
+  "Centro poblado": "CALAMAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "GUAVIARE",
+  "Municipio": "EL RETORNO",
+  "Centro poblado": "EL RETORNO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "GUAVIARE",
+  "Municipio": "MIRAFLORES",
+  "Centro poblado": "MIRAFLORES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "GUAVIARE",
+  "Municipio": "SAN JOSE DEL GUAVIARE",
+  "Centro poblado": "SAN JOSE DEL GUAVIARE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "ACEVEDO",
+  "Centro poblado": "ACEVEDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "AGRADO",
+  "Centro poblado": "AGRADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "AIPE",
+  "Centro poblado": "AIPE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "ALGECIRAS",
+  "Centro poblado": "ALGECIRAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "ALTAMIRA",
+  "Centro poblado": "ALTAMIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "BARAYA",
+  "Centro poblado": "BARAYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "CAMPOALEGRE",
+  "Centro poblado": "CAMPOALEGRE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "COLOMBIA",
+  "Centro poblado": "COLOMBIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "ELIAS",
+  "Centro poblado": "ELIAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "GARZON",
+  "Centro poblado": "GARZON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "GIGANTE",
+  "Centro poblado": "GIGANTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "GUADALUPE",
+  "Centro poblado": "GUADALUPE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "HOBO",
+  "Centro poblado": "HOBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "IQUIRA",
+  "Centro poblado": "IQUIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "ISNOS",
+  "Centro poblado": "SAN JOSE DE ISNOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "LA ARGENTINA",
+  "Centro poblado": "LA ARGENTINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "LA PLATA",
+  "Centro poblado": "LA PLATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "NATAGA",
+  "Centro poblado": "NATAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "NEIVA",
+  "Centro poblado": "NEIVA",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "OPORAPA",
+  "Centro poblado": "OPORAPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "PAICOL",
+  "Centro poblado": "PAICOL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "PALERMO",
+  "Centro poblado": "PALERMO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "PALESTINA",
+  "Centro poblado": "PALESTINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "PITAL",
+  "Centro poblado": "PITAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "PITALITO",
+  "Centro poblado": "PITALITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "RIVERA",
+  "Centro poblado": "RIVERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "SALADOBLANCO",
+  "Centro poblado": "SALADOBLANCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "SAN AGUSTIN",
+  "Centro poblado": "SAN AGUSTIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "SANTA MARIA",
+  "Centro poblado": "SANTA MARIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "SUAZA",
+  "Centro poblado": "SUAZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "TARQUI",
+  "Centro poblado": "TARQUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "TELLO",
+  "Centro poblado": "TELLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "TERUEL",
+  "Centro poblado": "TERUEL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "TESALIA",
+  "Centro poblado": "TESALIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "TIMANA",
+  "Centro poblado": "TIMANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "VILLAVIEJA",
+  "Centro poblado": "VILLAVIEJA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "HUILA",
+  "Municipio": "YAGUARA",
+  "Centro poblado": "YAGUARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "ALBANIA",
+  "Centro poblado": "ALBANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "BARRANCAS",
+  "Centro poblado": "BARRANCAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "DIBULLA",
+  "Centro poblado": "DIBULLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "DISTRACCION",
+  "Centro poblado": "DISTRACCION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "EL MOLINO",
+  "Centro poblado": "EL MOLINO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "FONSECA",
+  "Centro poblado": "FONSECA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "HATONUEVO",
+  "Centro poblado": "HATONUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "LA JAGUA DEL PILAR",
+  "Centro poblado": "LA JAGUA DEL PILAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "MAICAO",
+  "Centro poblado": "MAICAO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "MANAURE",
+  "Centro poblado": "MANAURE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "RIOHACHA",
+  "Centro poblado": "RIOHACHA, DISTRITO ESPECIAL, TURISTICO Y CULTURAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "SAN JUAN DEL CESAR",
+  "Centro poblado": "SAN JUAN DEL CESAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "URIBIA",
+  "Centro poblado": "URIBIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "URUMITA",
+  "Centro poblado": "URUMITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "LA GUAJIRA",
+  "Municipio": "VILLANUEVA",
+  "Centro poblado": "VILLANUEVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "ALGARROBO",
+  "Centro poblado": "ALGARROBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "ARACATACA",
+  "Centro poblado": "ARACATACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "ARIGUANI",
+  "Centro poblado": "EL DIFICIL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "CERRO DE SAN ANTONIO",
+  "Centro poblado": "CERRO DE SAN ANTONIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "CHIVOLO",
+  "Centro poblado": "CHIVOLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "CIENAGA",
+  "Centro poblado": "CIENAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "CONCORDIA",
+  "Centro poblado": "CONCORDIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "EL BANCO",
+  "Centro poblado": "EL BANCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "EL PIÑON",
+  "Centro poblado": "EL PIÑON",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "EL RETEN",
+  "Centro poblado": "EL RETEN",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "FUNDACION",
+  "Centro poblado": "FUNDACION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "GUAMAL",
+  "Centro poblado": "GUAMAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "NUEVA GRANADA",
+  "Centro poblado": "GRANADA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "PEDRAZA",
+  "Centro poblado": "PEDRAZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "PIJIÑO DEL CARMEN",
+  "Centro poblado": "PIJIÑO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "PIVIJAY",
+  "Centro poblado": "PIVIJAY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "PLATO",
+  "Centro poblado": "PLATO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "PUEBLOVIEJO",
+  "Centro poblado": "PUEBLOVIEJO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "REMOLINO",
+  "Centro poblado": "REMOLINO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SABANAS DE SAN ANGEL",
+  "Centro poblado": "SAN ANGEL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SALAMINA",
+  "Centro poblado": "SALAMINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SAN SEBASTIAN DE BUENAVISTA",
+  "Centro poblado": "SAN SEBASTIAN DE BUENAVISTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SAN ZENON",
+  "Centro poblado": "SAN ZENON",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SANTA ANA",
+  "Centro poblado": "SANTA ANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SANTA BARBARA DE PINTO",
+  "Centro poblado": "SANTA BARBARA DE PINTO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SANTA MARTA",
+  "Centro poblado": "SANTA MARTA, DISTRITO TURISTICO, CULTURAL E HISTORICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "SITIONUEVO",
+  "Centro poblado": "SITIONUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "TENERIFE",
+  "Centro poblado": "TENERIFE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "ZAPAYAN",
+  "Centro poblado": "PUNTA DE PIEDRAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "MAGDALENA",
+  "Municipio": "ZONA BANANERA",
+  "Centro poblado": "PRADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "ACACIAS",
+  "Centro poblado": "ACACIAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "BARRANCA DE UPIA",
+  "Centro poblado": "BARRANCA DE UPIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "CABUYARO",
+  "Centro poblado": "CABUYARO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "CASTILLA LA NUEVA",
+  "Centro poblado": "CASTILLA LA NUEVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "CUBARRAL",
+  "Centro poblado": "CUBARRAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "CUMARAL",
+  "Centro poblado": "CUMARAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "EL CALVARIO",
+  "Centro poblado": "EL CALVARIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "EL CASTILLO",
+  "Centro poblado": "EL CASTILLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "EL DORADO",
+  "Centro poblado": "EL DORADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "FUENTE DE ORO",
+  "Centro poblado": "FUENTE DE ORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "GRANADA",
+  "Centro poblado": "GRANADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "GUAMAL",
+  "Centro poblado": "GUAMAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "LA MACARENA",
+  "Centro poblado": "LA MACARENA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "LEJANIAS",
+  "Centro poblado": "LEJANIAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "MAPIRIPAN",
+  "Centro poblado": "MAPIRIPAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "MESETAS",
+  "Centro poblado": "MESETAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "PUERTO CONCORDIA",
+  "Centro poblado": "PUERTO CONCORDIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "PUERTO GAITAN",
+  "Centro poblado": "PUERTO GAITAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "PUERTO LLERAS",
+  "Centro poblado": "PUERTO LLERAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "PUERTO LOPEZ",
+  "Centro poblado": "PUERTO LOPEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "PUERTO RICO",
+  "Centro poblado": "PUERTO RICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "RESTREPO",
+  "Centro poblado": "RESTREPO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "SAN CARLOS DE GUAROA",
+  "Centro poblado": "SAN CARLOS DE GUAROA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "SAN JUAN DE ARAMA",
+  "Centro poblado": "SAN JUAN DE ARAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "SAN JUANITO",
+  "Centro poblado": "SAN JUANITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "SAN MARTIN",
+  "Centro poblado": "SAN MARTIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "URIBE",
+  "Centro poblado": "URIBE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "VILLAVICENCIO",
+  "Centro poblado": "VILLAVICENCIO",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "META",
+  "Municipio": "VISTAHERMOSA",
+  "Centro poblado": "VISTAHERMOSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "ALBAN",
+  "Centro poblado": "SAN JOSE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "ALDANA",
+  "Centro poblado": "ALDANA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "ANCUYA",
+  "Centro poblado": "ANCUYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "ARBOLEDA",
+  "Centro poblado": "BERRUECOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "BARBACOAS",
+  "Centro poblado": "BARBACOAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "BELEN",
+  "Centro poblado": "BELEN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "BUESACO",
+  "Centro poblado": "BUESACO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CHACHAGÜI",
+  "Centro poblado": "CHACHAGÜI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "COLON",
+  "Centro poblado": "GENOVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CONSACA",
+  "Centro poblado": "CONSACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CONTADERO",
+  "Centro poblado": "CONTADERO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CORDOBA",
+  "Centro poblado": "CORDOBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CUASPUD CARLOSAMA",
+  "Centro poblado": "CARLOSAMA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CUMBAL",
+  "Centro poblado": "CUMBAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "CUMBITARA",
+  "Centro poblado": "CUMBITARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "EL CHARCO",
+  "Centro poblado": "EL CHARCO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "EL PEÑOL",
+  "Centro poblado": "EL PEÑOL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "EL ROSARIO",
+  "Centro poblado": "EL ROSARIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "EL TABLON DE GOMEZ",
+  "Centro poblado": "EL TABLON DE GOMEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "EL TAMBO",
+  "Centro poblado": "EL TAMBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "FRANCISCO PIZARRO",
+  "Centro poblado": "SALAHONDA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "FUNES",
+  "Centro poblado": "FUNES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "GUACHUCAL",
+  "Centro poblado": "GUACHUCAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "GUAITARILLA",
+  "Centro poblado": "GUAITARILLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "GUALMATAN",
+  "Centro poblado": "GUALMATAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "ILES",
+  "Centro poblado": "ILES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "IMUES",
+  "Centro poblado": "IMUES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "IPIALES",
+  "Centro poblado": "IPIALES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LA CRUZ",
+  "Centro poblado": "LA CRUZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LA FLORIDA",
+  "Centro poblado": "LA FLORIDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LA LLANADA",
+  "Centro poblado": "LA LLANADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LA TOLA",
+  "Centro poblado": "LA TOLA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LA UNION",
+  "Centro poblado": "LA UNION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LEIVA",
+  "Centro poblado": "LEIVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LINARES",
+  "Centro poblado": "LINARES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "LOS ANDES",
+  "Centro poblado": "SOTOMAYOR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "MAGÜI",
+  "Centro poblado": "PAYAN",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "MALLAMA",
+  "Centro poblado": "PIEDRANCHA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "MOSQUERA",
+  "Centro poblado": "MOSQUERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "NARIÑO",
+  "Centro poblado": "NARIÑO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "OLAYA HERRERA",
+  "Centro poblado": "BOCAS DE SATINGA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "OSPINA",
+  "Centro poblado": "OSPINA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "PASTO",
+  "Centro poblado": "SAN JUAN DE PASTO",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "POLICARPA",
+  "Centro poblado": "POLICARPA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "POTOSI",
+  "Centro poblado": "POTOSI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "PROVIDENCIA",
+  "Centro poblado": "PROVIDENCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "PUERRES",
+  "Centro poblado": "PUERRES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "PUPIALES",
+  "Centro poblado": "PUPIALES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "RICAURTE",
+  "Centro poblado": "RICAURTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "ROBERTO PAYAN",
+  "Centro poblado": "SAN JOSE",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAMANIEGO",
+  "Centro poblado": "SAMANIEGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAN ANDRES DE TUMACO",
+  "Centro poblado": "SAN ANDRES DE TUMACO, DISTRITO ESPECIAL, INDUSTRIAL, PORTUARIO, BIODIVERSO Y ECOTURISTICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAN BERNARDO",
+  "Centro poblado": "SAN BERNARDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAN LORENZO",
+  "Centro poblado": "SAN LORENZO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAN PABLO",
+  "Centro poblado": "SAN PABLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAN PEDRO DE CARTAGO",
+  "Centro poblado": "SAN PEDRO DE CARTAGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SANDONA",
+  "Centro poblado": "SANDONA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SANTA BARBARA",
+  "Centro poblado": "ISCUANDE",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SANTACRUZ",
+  "Centro poblado": "GUACHAVES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "SAPUYES",
+  "Centro poblado": "SAPUYES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "TAMINANGO",
+  "Centro poblado": "TAMINANGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "TANGUA",
+  "Centro poblado": "TANGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "TUQUERRES",
+  "Centro poblado": "TUQUERRES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NARIÑO",
+  "Municipio": "YACUANQUER",
+  "Centro poblado": "YACUANQUER",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "ABREGO",
+  "Centro poblado": "ABREGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "ARBOLEDAS",
+  "Centro poblado": "ARBOLEDAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "BOCHALEMA",
+  "Centro poblado": "BOCHALEMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "BUCARASICA",
+  "Centro poblado": "BUCARASICA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CACHIRA",
+  "Centro poblado": "CACHIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CACOTA",
+  "Centro poblado": "CACOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CHINACOTA",
+  "Centro poblado": "CHINACOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CHITAGA",
+  "Centro poblado": "CHITAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CONVENCION",
+  "Centro poblado": "CONVENCION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CUCUTA",
+  "Centro poblado": "SAN JOSE DE CUCUTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "CUCUTILLA",
+  "Centro poblado": "CUCUTILLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "DURANIA",
+  "Centro poblado": "DURANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "EL CARMEN",
+  "Centro poblado": "EL CARMEN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "EL TARRA",
+  "Centro poblado": "EL TARRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "EL ZULIA",
+  "Centro poblado": "EL ZULIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "GRAMALOTE",
+  "Centro poblado": "GRAMALOTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "HACARI",
+  "Centro poblado": "HACARI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "HERRAN",
+  "Centro poblado": "HERRAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "LA ESPERANZA",
+  "Centro poblado": "LA ESPERANZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "LA PLAYA",
+  "Centro poblado": "LA PLAYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "LABATECA",
+  "Centro poblado": "LABATECA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "LOS PATIOS",
+  "Centro poblado": "LOS PATIOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "LOURDES",
+  "Centro poblado": "LOURDES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "MUTISCUA",
+  "Centro poblado": "MUTISCUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "OCAÑA",
+  "Centro poblado": "OCAÑA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "PAMPLONA",
+  "Centro poblado": "PAMPLONA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "PAMPLONITA",
+  "Centro poblado": "PAMPLONITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "PUERTO SANTANDER",
+  "Centro poblado": "PUERTO SANTANDER",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "RAGONVALIA",
+  "Centro poblado": "RAGONVALIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "SALAZAR",
+  "Centro poblado": "SALAZAR DE LAS PALMAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "SAN CALIXTO",
+  "Centro poblado": "SAN CALIXTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "SAN CAYETANO",
+  "Centro poblado": "SAN CAYETANO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "SANTIAGO",
+  "Centro poblado": "SANTIAGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "SARDINATA",
+  "Centro poblado": "SARDINATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "SILOS",
+  "Centro poblado": "SILOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "TEORAMA",
+  "Centro poblado": "TEORAMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "TIBU",
+  "Centro poblado": "TIBU",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "TOLEDO",
+  "Centro poblado": "TOLEDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "VILLA CARO",
+  "Centro poblado": "VILLA CARO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "NORTE DE SANTANDER",
+  "Municipio": "VILLA DEL ROSARIO",
+  "Centro poblado": "VILLA DEL ROSARIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "COLON",
+  "Centro poblado": "COLON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "MOCOA",
+  "Centro poblado": "MOCOA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "ORITO",
+  "Centro poblado": "ORITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "PUERTO ASIS",
+  "Centro poblado": "PUERTO ASIS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "PUERTO CAICEDO",
+  "Centro poblado": "PUERTO CAICEDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "PUERTO GUZMAN",
+  "Centro poblado": "PUERTO GUZMAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "PUERTO LEGUIZAMO",
+  "Centro poblado": "PUERTO LEGUIZAMO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "SAN FRANCISCO",
+  "Centro poblado": "SAN FRANCISCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "SAN MIGUEL",
+  "Centro poblado": "LA DORADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "SANTIAGO",
+  "Centro poblado": "SANTIAGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "SIBUNDOY",
+  "Centro poblado": "SIBUNDOY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "VALLE DEL GUAMUEZ",
+  "Centro poblado": "LA HORMIGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "PUTUMAYO",
+  "Municipio": "VILLAGARZON",
+  "Centro poblado": "VILLAGARZON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "ARMENIA",
+  "Centro poblado": "ARMENIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "BUENAVISTA",
+  "Centro poblado": "BUENAVISTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "CALARCA",
+  "Centro poblado": "CALARCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "CIRCASIA",
+  "Centro poblado": "CIRCASIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "CORDOBA",
+  "Centro poblado": "CORDOBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "FILANDIA",
+  "Centro poblado": "FILANDIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "GENOVA",
+  "Centro poblado": "GENOVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "LA TEBAIDA",
+  "Centro poblado": "LA TEBAIDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "MONTENEGRO",
+  "Centro poblado": "MONTENEGRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "PIJAO",
+  "Centro poblado": "PIJAO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "QUIMBAYA",
+  "Centro poblado": "QUIMBAYA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "QUINDIO",
+  "Municipio": "SALENTO",
+  "Centro poblado": "SALENTO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "APIA",
+  "Centro poblado": "APIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "BALBOA",
+  "Centro poblado": "BALBOA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "BELEN DE UMBRIA",
+  "Centro poblado": "BELEN DE UMBRIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "DOSQUEBRADAS",
+  "Centro poblado": "DOSQUEBRADAS",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "GUATICA",
+  "Centro poblado": "GUATICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "LA CELIA",
+  "Centro poblado": "LA CELIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "LA VIRGINIA",
+  "Centro poblado": "LA VIRGINIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "MARSELLA",
+  "Centro poblado": "MARSELLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "MISTRATO",
+  "Centro poblado": "MISTRATO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "PEREIRA",
+  "Centro poblado": "PEREIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "PUEBLO RICO",
+  "Centro poblado": "PUEBLO RICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "QUINCHIA",
+  "Centro poblado": "QUINCHIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "SANTA ROSA DE CABAL",
+  "Centro poblado": "SANTA ROSA DE CABAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "RISARALDA",
+  "Municipio": "SANTUARIO",
+  "Centro poblado": "SANTUARIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "AGUADA",
+  "Centro poblado": "AGUADA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "ALBANIA",
+  "Centro poblado": "ALBANIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "ARATOCA",
+  "Centro poblado": "ARATOCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "BARBOSA",
+  "Centro poblado": "BARBOSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "BARICHARA",
+  "Centro poblado": "BARICHARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "BARRANCABERMEJA",
+  "Centro poblado": "BARRANCABERMEJA, DISTRITO ESPECIAL, PORTUARIO, BIODIVERSO, INDUSTRIAL Y TURISTICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "BETULIA",
+  "Centro poblado": "BETULIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "BOLIVAR",
+  "Centro poblado": "BOLIVAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "BUCARAMANGA",
+  "Centro poblado": "BUCARAMANGA",
+  "TRANSPORTADORA": "JOSE ENVIOS"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CABRERA",
+  "Centro poblado": "CABRERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CALIFORNIA",
+  "Centro poblado": "CALIFORNIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CAPITANEJO",
+  "Centro poblado": "CAPITANEJO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CARCASI",
+  "Centro poblado": "CARCASI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CEPITA",
+  "Centro poblado": "CEPITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CERRITO",
+  "Centro poblado": "CERRITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CHARALA",
+  "Centro poblado": "CHARALA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CHARTA",
+  "Centro poblado": "CHARTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CHIMA",
+  "Centro poblado": "CHIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CHIPATA",
+  "Centro poblado": "CHIPATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CIMITARRA",
+  "Centro poblado": "CIMITARRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CONCEPCION",
+  "Centro poblado": "CONCEPCION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CONFINES",
+  "Centro poblado": "CONFINES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CONTRATACION",
+  "Centro poblado": "CONTRATACION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "COROMORO",
+  "Centro poblado": "COROMORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "CURITI",
+  "Centro poblado": "CURITI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "EL CARMEN DE CHUCURI",
+  "Centro poblado": "EL CARMEN DE CHUCURI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "EL GUACAMAYO",
+  "Centro poblado": "EL GUACAMAYO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "EL PEÑON",
+  "Centro poblado": "EL PEÑON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "EL PLAYON",
+  "Centro poblado": "EL PLAYON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "ENCINO",
+  "Centro poblado": "ENCINO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "ENCISO",
+  "Centro poblado": "ENCISO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "FLORIAN",
+  "Centro poblado": "FLORIAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "FLORIDABLANCA",
+  "Centro poblado": "FLORIDABLANCA",
+  "TRANSPORTADORA": "JOSE ENVIOS"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GALAN",
+  "Centro poblado": "GALAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GAMBITA",
+  "Centro poblado": "GAMBITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GIRON",
+  "Centro poblado": "GIRON",
+  "TRANSPORTADORA": "JOSE ENVIOS"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GUACA",
+  "Centro poblado": "GUACA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GUADALUPE",
+  "Centro poblado": "GUADALUPE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GUAPOTA",
+  "Centro poblado": "GUAPOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GUAVATA",
+  "Centro poblado": "GUAVATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "GÜEPSA",
+  "Centro poblado": "GÜEPSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "HATO",
+  "Centro poblado": "HATO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "JESUS MARIA",
+  "Centro poblado": "JESUS MARIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "JORDAN",
+  "Centro poblado": "JORDAN SUBE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "LA BELLEZA",
+  "Centro poblado": "LA BELLEZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "LA PAZ",
+  "Centro poblado": "LA PAZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "LANDAZURI",
+  "Centro poblado": "LANDAZURI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "LEBRIJA",
+  "Centro poblado": "LEBRIJA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "LOS SANTOS",
+  "Centro poblado": "LOS SANTOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "MACARAVITA",
+  "Centro poblado": "MACARAVITA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "MALAGA",
+  "Centro poblado": "MALAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "MATANZA",
+  "Centro poblado": "MATANZA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "MOGOTES",
+  "Centro poblado": "MOGOTES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "MOLAGAVITA",
+  "Centro poblado": "MOLAGAVITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "OCAMONTE",
+  "Centro poblado": "OCAMONTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "OIBA",
+  "Centro poblado": "OIBA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "ONZAGA",
+  "Centro poblado": "ONZAGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PALMAR",
+  "Centro poblado": "PALMAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PALMAS DEL SOCORRO",
+  "Centro poblado": "PALMAS DEL SOCORRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PARAMO",
+  "Centro poblado": "PARAMO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PIEDECUESTA",
+  "Centro poblado": "PIEDECUESTA",
+  "TRANSPORTADORA": "JOSE ENVIOS"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PINCHOTE",
+  "Centro poblado": "PINCHOTE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PUENTE NACIONAL",
+  "Centro poblado": "PUENTE NACIONAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PUERTO PARRA",
+  "Centro poblado": "PUERTO PARRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "PUERTO WILCHES",
+  "Centro poblado": "PUERTO WILCHES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "RIONEGRO",
+  "Centro poblado": "RIONEGRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SABANA DE TORRES",
+  "Centro poblado": "SABANA DE TORRES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN ANDRES",
+  "Centro poblado": "SAN ANDRES",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN BENITO",
+  "Centro poblado": "SAN BENITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN GIL",
+  "Centro poblado": "SAN GIL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN JOAQUIN",
+  "Centro poblado": "SAN JOAQUIN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN JOSE DE MIRANDA",
+  "Centro poblado": "SAN JOSE DE MIRANDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN MIGUEL",
+  "Centro poblado": "SAN MIGUEL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SAN VICENTE DE CHUCURI",
+  "Centro poblado": "SAN VICENTE DE CHUCURI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SANTA BARBARA",
+  "Centro poblado": "SANTA BARBARA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SANTA HELENA DEL OPON",
+  "Centro poblado": "SANTA HELENA DEL OPON",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SIMACOTA",
+  "Centro poblado": "SIMACOTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SOCORRO",
+  "Centro poblado": "SOCORRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SUAITA",
+  "Centro poblado": "SUAITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SUCRE",
+  "Centro poblado": "SUCRE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "SURATA",
+  "Centro poblado": "SURATA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "TONA",
+  "Centro poblado": "TONA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "VALLE DE SAN JOSE",
+  "Centro poblado": "VALLE DE SAN JOSE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "VELEZ",
+  "Centro poblado": "VELEZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "VETAS",
+  "Centro poblado": "VETAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "VILLANUEVA",
+  "Centro poblado": "VILLANUEVA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SANTANDER",
+  "Municipio": "ZAPATOCA",
+  "Centro poblado": "ZAPATOCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "BUENAVISTA",
+  "Centro poblado": "BUENAVISTA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "CAIMITO",
+  "Centro poblado": "CAIMITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "CHALAN",
+  "Centro poblado": "CHALAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "COLOSO",
+  "Centro poblado": "RICAURTE (COLOSO)",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "COROZAL",
+  "Centro poblado": "COROZAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "COVEÑAS",
+  "Centro poblado": "COVEÑAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "EL ROBLE",
+  "Centro poblado": "EL ROBLE",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "GALERAS",
+  "Centro poblado": "GALERAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "GUARANDA",
+  "Centro poblado": "GUARANDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "LA UNION",
+  "Centro poblado": "LA UNION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "LOS PALMITOS",
+  "Centro poblado": "LOS PALMITOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "MAJAGUAL",
+  "Centro poblado": "MAJAGUAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "MORROA",
+  "Centro poblado": "MORROA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "OVEJAS",
+  "Centro poblado": "OVEJAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAMPUES",
+  "Centro poblado": "SAMPUES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN ANTONIO DE PALMITOS",
+  "Centro poblado": "SAN ANTONIO DE PALMITOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN BENITO ABAD",
+  "Centro poblado": "SAN BENITO ABAD",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN JUAN DE BETULIA",
+  "Centro poblado": "BETULIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN LUIS DE SINCE",
+  "Centro poblado": "SINCE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN MARCOS",
+  "Centro poblado": "SAN MARCOS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN ONOFRE",
+  "Centro poblado": "SAN ONOFRE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SAN PEDRO",
+  "Centro poblado": "SAN PEDRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SANTIAGO DE TOLU",
+  "Centro poblado": "SANTIAGO DE TOLU",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SINCELEJO",
+  "Centro poblado": "SINCELEJO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "SUCRE",
+  "Centro poblado": "SUCRE",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "SUCRE",
+  "Municipio": "TOLUVIEJO",
+  "Centro poblado": "TOLUVIEJO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ALPUJARRA",
+  "Centro poblado": "ALPUJARRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ALVARADO",
+  "Centro poblado": "ALVARADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "AMBALEMA",
+  "Centro poblado": "AMBALEMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ANZOATEGUI",
+  "Centro poblado": "ANZOATEGUI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ARMERO",
+  "Centro poblado": "GUAYABAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ATACO",
+  "Centro poblado": "ATACO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "CAJAMARCA",
+  "Centro poblado": "CAJAMARCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "CARMEN DE APICALA",
+  "Centro poblado": "CARMEN DE APICALA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "CASABIANCA",
+  "Centro poblado": "CASABIANCA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "CHAPARRAL",
+  "Centro poblado": "CHAPARRAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "COELLO",
+  "Centro poblado": "COELLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "COYAIMA",
+  "Centro poblado": "COYAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "CUNDAY",
+  "Centro poblado": "CUNDAY",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "DOLORES",
+  "Centro poblado": "DOLORES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ESPINAL",
+  "Centro poblado": "EL ESPINAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "FALAN",
+  "Centro poblado": "FALAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "FLANDES",
+  "Centro poblado": "FLANDES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "FRESNO",
+  "Centro poblado": "FRESNO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "GUAMO",
+  "Centro poblado": "GUAMO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "HERVEO",
+  "Centro poblado": "HERVEO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "HONDA",
+  "Centro poblado": "HONDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "IBAGUE",
+  "Centro poblado": "IBAGUE",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ICONONZO",
+  "Centro poblado": "ICONONZO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "LERIDA",
+  "Centro poblado": "LERIDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "LIBANO",
+  "Centro poblado": "LIBANO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "MELGAR",
+  "Centro poblado": "MELGAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "MURILLO",
+  "Centro poblado": "MURILLO",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "NATAGAIMA",
+  "Centro poblado": "NATAGAIMA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ORTEGA",
+  "Centro poblado": "ORTEGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "PALOCABILDO",
+  "Centro poblado": "PALOCABILDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "PIEDRAS",
+  "Centro poblado": "PIEDRAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "PLANADAS",
+  "Centro poblado": "PLANADAS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "PRADO",
+  "Centro poblado": "PRADO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "PURIFICACION",
+  "Centro poblado": "PURIFICACION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "RIOBLANCO",
+  "Centro poblado": "RIOBLANCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "RONCESVALLES",
+  "Centro poblado": "RONCESVALLES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "ROVIRA",
+  "Centro poblado": "ROVIRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "SALDAÑA",
+  "Centro poblado": "SALDAÑA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "SAN ANTONIO",
+  "Centro poblado": "SAN ANTONIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "SAN LUIS",
+  "Centro poblado": "SAN LUIS",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "SAN SEBASTIAN DE MARIQUITA",
+  "Centro poblado": "SAN SEBASTIAN DE MARIQUITA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "SANTA ISABEL",
+  "Centro poblado": "SANTA ISABEL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "SUAREZ",
+  "Centro poblado": "SUAREZ",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "VALLE DE SAN JUAN",
+  "Centro poblado": "VALLE DE SAN JUAN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "VENADILLO",
+  "Centro poblado": "VENADILLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "VILLAHERMOSA",
+  "Centro poblado": "VILLAHERMOSA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "TOLIMA",
+  "Municipio": "VILLARRICA",
+  "Centro poblado": "VILLARRICA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ALCALA",
+  "Centro poblado": "ALCALA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ANDALUCIA",
+  "Centro poblado": "ANDALUCIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ANSERMANUEVO",
+  "Centro poblado": "ANSERMANUEVO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ARGELIA",
+  "Centro poblado": "ARGELIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "BOLIVAR",
+  "Centro poblado": "BOLIVAR",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "BUENAVENTURA",
+  "Centro poblado": "BUENAVENTURA, DISTRITO ESPECIAL, INDUSTRIAL, PORTUARIO, BIODIVERSO Y ECOTURISTICO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "BUGALAGRANDE",
+  "Centro poblado": "BUGALAGRANDE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "CAICEDONIA",
+  "Centro poblado": "CAICEDONIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "CALI",
+  "Centro poblado": "SANTIAGO DE CALI, DISTRITO ESPECIAL, DEPORTIVO, CULTURAL, TURISTICO, EMPRESARIAL Y DE SERVICIOS",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "CALIMA",
+  "Centro poblado": "DARIEN",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "CANDELARIA",
+  "Centro poblado": "CANDELARIA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "CARTAGO",
+  "Centro poblado": "CARTAGO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "DAGUA",
+  "Centro poblado": "DAGUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "EL AGUILA",
+  "Centro poblado": "EL AGUILA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "EL CAIRO",
+  "Centro poblado": "EL CAIRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "EL CERRITO",
+  "Centro poblado": "EL CERRITO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "EL DOVIO",
+  "Centro poblado": "EL DOVIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "FLORIDA",
+  "Centro poblado": "FLORIDA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "GINEBRA",
+  "Centro poblado": "GINEBRA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "GUACARI",
+  "Centro poblado": "GUACARI",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "GUADALAJARA DE BUGA",
+  "Centro poblado": "GUADALAJARA DE BUGA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "JAMUNDI",
+  "Centro poblado": "JAMUNDI",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "LA CUMBRE",
+  "Centro poblado": "LA CUMBRE",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "LA UNION",
+  "Centro poblado": "LA UNION",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "LA VICTORIA",
+  "Centro poblado": "LA VICTORIA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "OBANDO",
+  "Centro poblado": "OBANDO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "PALMIRA",
+  "Centro poblado": "PALMIRA",
+  "TRANSPORTADORA": "COORDINADORA"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "PRADERA",
+  "Centro poblado": "PRADERA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "RESTREPO",
+  "Centro poblado": "RESTREPO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "RIOFRIO",
+  "Centro poblado": "RIOFRIO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ROLDANILLO",
+  "Centro poblado": "ROLDANILLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "SAN PEDRO",
+  "Centro poblado": "SAN PEDRO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "SEVILLA",
+  "Centro poblado": "SEVILLA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "TORO",
+  "Centro poblado": "TORO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "TRUJILLO",
+  "Centro poblado": "TRUJILLO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "TULUA",
+  "Centro poblado": "TULUA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ULLOA",
+  "Centro poblado": "ULLOA",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "VERSALLES",
+  "Centro poblado": "VERSALLES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "VIJES",
+  "Centro poblado": "VIJES",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "YOTOCO",
+  "Centro poblado": "YOTOCO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "YUMBO",
+  "Centro poblado": "YUMBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VALLE DEL CAUCA",
+  "Municipio": "ZARZAL",
+  "Centro poblado": "ZARZAL",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VAUPES",
+  "Municipio": "CARURU",
+  "Centro poblado": "CARURU",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "VAUPES",
+  "Municipio": "MITU",
+  "Centro poblado": "MITU",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "VAUPES",
+  "Municipio": "TARAIRA",
+  "Centro poblado": "TARAIRA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "VICHADA",
+  "Municipio": "CUMARIBO",
+  "Centro poblado": "CUMARIBO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VICHADA",
+  "Municipio": "LA PRIMAVERA",
+  "Centro poblado": "LA PRIMAVERA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ },
+ {
+  "Departamento": "VICHADA",
+  "Municipio": "PUERTO CARREÑO",
+  "Centro poblado": "PUERTO CARREÑO",
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
+ },
+ {
+  "Departamento": "VICHADA",
+  "Municipio": "SANTA ROSALIA",
+  "Centro poblado": "SANTA ROSALIA",
+  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
+  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+ }
+]
+}
