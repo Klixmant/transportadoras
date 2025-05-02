@@ -1,5 +1,4 @@
-{
-"Hoja1":[
+[
  {
   "Departamento": "AMAZONAS",
   "Municipio": "LETICIA",
@@ -79,7 +78,8 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "APARTADO",
   "Centro poblado": "APARTADO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -103,13 +103,14 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "BARBOSA",
   "Centro poblado": "BARBOSA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
   "Municipio": "BELLO",
   "Centro poblado": "BELLO",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -157,7 +158,8 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "CALDAS",
   "Centro poblado": "CALDAS",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -241,7 +243,7 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "COPACABANA",
   "Centro poblado": "COPACABANA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -289,7 +291,7 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "ENVIGADO",
   "Centro poblado": "ENVIGADO",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -313,7 +315,8 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "GIRARDOTA",
   "Centro poblado": "GIRARDOTA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -337,7 +340,8 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "GUARNE",
   "Centro poblado": "GUARNE",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -361,7 +365,7 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "ITAGÜI",
   "Centro poblado": "ITAGÜI",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -391,7 +395,7 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "LA ESTRELLA",
   "Centro poblado": "LA ESTRELLA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -421,13 +425,14 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "MARINILLA",
   "Centro poblado": "MARINILLA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
   "Municipio": "MEDELLIN",
   "Centro poblado": "MEDELLIN, DISTRITO ESPECIAL DE CIENCIA, TECNOLOGIA E INNOVACION",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -518,13 +523,15 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "RETIRO",
   "Centro poblado": "RETIRO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
   "Municipio": "RIONEGRO",
   "Centro poblado": "RIONEGRO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -536,7 +543,7 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "SABANETA",
   "Centro poblado": "SABANETA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "LOGISTICA EFFI"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -692,7 +699,8 @@
   "Departamento": "ANTIOQUIA",
   "Municipio": "TURBO",
   "Centro poblado": "TURBO, DISTRITO PORTUARIO, LOGISTICO, INDUSTRIAL, TURISTICO Y COMERCIAL",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ANTIOQUIA",
@@ -832,7 +840,8 @@
   "Departamento": "ATLANTICO",
   "Municipio": "BARRANQUILLA",
   "Centro poblado": "BARRANQUILLA, DISTRITO ESPECIAL, INDUSTRIAL Y PORTUARIO",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ATLANTICO",
@@ -850,7 +859,8 @@
   "Departamento": "ATLANTICO",
   "Municipio": "GALAPA",
   "Centro poblado": "GALAPA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ATLANTICO",
@@ -868,7 +878,8 @@
   "Departamento": "ATLANTICO",
   "Municipio": "MALAMBO",
   "Centro poblado": "MALAMBO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ATLANTICO",
@@ -940,7 +951,8 @@
   "Departamento": "ATLANTICO",
   "Municipio": "SOLEDAD",
   "Centro poblado": "SOLEDAD",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "ATLANTICO",
@@ -964,7 +976,8 @@
   "Departamento": "BOGOTA, D.C.",
   "Municipio": "BOGOTA, D.C.",
   "Centro poblado": "BOGOTA, DISTRITO CAPITAL",
-  "TRANSPORTADORA": "LOGISTICA EFFI"
+  "TRANSPORTADORA": "LOGISTICA EFFI",
+  "RESTRICCIÓN": "Zonas sin cobertura:\nSector Maria Paz\nSector Llano grande"
  },
  {
   "Departamento": "BOLIVAR",
@@ -1225,7 +1238,8 @@
   "Departamento": "BOLIVAR",
   "Municipio": "TURBACO",
   "Centro poblado": "TURBACO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOLIVAR",
@@ -1339,7 +1353,8 @@
   "Departamento": "BOYACA",
   "Municipio": "CHIQUINQUIRA",
   "Centro poblado": "CHIQUINQUIRA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOYACA",
@@ -1429,7 +1444,8 @@
   "Departamento": "BOYACA",
   "Municipio": "DUITAMA",
   "Centro poblado": "DUITAMA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOYACA",
@@ -1627,7 +1643,8 @@
   "Departamento": "BOYACA",
   "Municipio": "PAIPA",
   "Centro poblado": "PAIPA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOYACA",
@@ -1819,7 +1836,8 @@
   "Departamento": "BOYACA",
   "Municipio": "SOGAMOSO",
   "Centro poblado": "SOGAMOSO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOYACA",
@@ -1885,7 +1903,8 @@
   "Departamento": "BOYACA",
   "Municipio": "TIBASOSA",
   "Centro poblado": "TIBASOSA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOYACA",
@@ -1927,7 +1946,8 @@
   "Departamento": "BOYACA",
   "Municipio": "TUNJA",
   "Centro poblado": "TUNJA",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "BOYACA",
@@ -2011,7 +2031,8 @@
   "Departamento": "CALDAS",
   "Municipio": "CHINCHINA",
   "Centro poblado": "CHINCHINA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CALDAS",
@@ -2035,7 +2056,8 @@
   "Departamento": "CALDAS",
   "Municipio": "MANIZALES",
   "Centro poblado": "MANIZALES",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CALDAS",
@@ -2137,7 +2159,8 @@
   "Departamento": "CALDAS",
   "Municipio": "VILLAMARIA",
   "Centro poblado": "VILLAMARIA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CALDAS",
@@ -2518,7 +2541,8 @@
   "Departamento": "CAUCA",
   "Municipio": "POPAYAN",
   "Centro poblado": "POPAYAN",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CAUCA",
@@ -2616,7 +2640,8 @@
   "Departamento": "CESAR",
   "Municipio": "AGUACHICA",
   "Centro poblado": "AGUACHICA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CESAR",
@@ -2760,7 +2785,8 @@
   "Departamento": "CESAR",
   "Municipio": "VALLEDUPAR",
   "Centro poblado": "VALLEDUPAR",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CHOCO",
@@ -3050,7 +3076,7 @@
   "Departamento": "CORDOBA",
   "Municipio": "MONTERIA",
   "Centro poblado": "MONTERIA",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
  },
  {
   "Departamento": "CORDOBA",
@@ -3218,7 +3244,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "CAJICA",
   "Centro poblado": "CAJICA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3248,7 +3275,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "CHIA",
   "Centro poblado": "CHIA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3278,7 +3306,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "COTA",
   "Centro poblado": "COTA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3308,7 +3337,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "FACATATIVA",
   "Centro poblado": "FACATATIVA",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3326,7 +3356,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "FUNZA",
   "Centro poblado": "FUNZA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3338,7 +3369,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "FUSAGASUGA",
   "Centro poblado": "FUSAGASUGA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3482,7 +3514,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "MADRID",
   "Centro poblado": "MADRID",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3500,7 +3533,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "MOSQUERA",
   "Centro poblado": "MOSQUERA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3662,7 +3696,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "SOACHA",
   "Centro poblado": "SOACHA",
-  "TRANSPORTADORA": "LOGISTICA EFFI"
+  "TRANSPORTADORA": "LOGISTICA EFFI",
+  "RESTRICCIÓN": "Zonas sin cobertura:\nCazuca\nAltos de cazuca\nCiudadela sucre\nBarrio santillana"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3722,7 +3757,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "TENJO",
   "Centro poblado": "TENJO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "CUNDINAMARCA",
@@ -3842,7 +3878,8 @@
   "Departamento": "CUNDINAMARCA",
   "Municipio": "ZIPAQUIRA",
   "Centro poblado": "ZIPAQUIRA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "GUAINIA",
@@ -3992,7 +4029,8 @@
   "Departamento": "HUILA",
   "Municipio": "NEIVA",
   "Centro poblado": "NEIVA",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "HUILA",
@@ -4226,7 +4264,8 @@
   "Departamento": "MAGDALENA",
   "Municipio": "CIENAGA",
   "Centro poblado": "CIENAGA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "MAGDALENA",
@@ -4545,7 +4584,8 @@
   "Departamento": "META",
   "Municipio": "VILLAVICENCIO",
   "Centro poblado": "VILLAVICENCIO",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "META",
@@ -4815,7 +4855,7 @@
   "Departamento": "NARIÑO",
   "Municipio": "PASTO",
   "Centro poblado": "SAN JUAN DE PASTO",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "INTERRAPIDISIMO"
  },
  {
   "Departamento": "NARIÑO",
@@ -5004,7 +5044,8 @@
   "Departamento": "NORTE DE SANTANDER",
   "Municipio": "CUCUTA",
   "Centro poblado": "SAN JOSE DE CUCUTA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "NORTE DE SANTANDER",
@@ -5095,13 +5136,15 @@
   "Departamento": "NORTE DE SANTANDER",
   "Municipio": "OCAÑA",
   "Centro poblado": "OCAÑA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "NORTE DE SANTANDER",
   "Municipio": "PAMPLONA",
   "Centro poblado": "PAMPLONA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "NORTE DE SANTANDER",
@@ -5270,7 +5313,8 @@
   "Departamento": "QUINDIO",
   "Municipio": "ARMENIA",
   "Centro poblado": "ARMENIA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "QUINDIO",
@@ -5282,7 +5326,8 @@
   "Departamento": "QUINDIO",
   "Municipio": "CALARCA",
   "Centro poblado": "CALARCA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "QUINDIO",
@@ -5318,7 +5363,8 @@
   "Departamento": "QUINDIO",
   "Municipio": "MONTENEGRO",
   "Centro poblado": "MONTENEGRO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "QUINDIO",
@@ -5330,7 +5376,8 @@
   "Departamento": "QUINDIO",
   "Municipio": "QUIMBAYA",
   "Centro poblado": "QUIMBAYA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "QUINDIO",
@@ -5360,7 +5407,8 @@
   "Departamento": "RISARALDA",
   "Municipio": "DOSQUEBRADAS",
   "Centro poblado": "DOSQUEBRADAS",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "RISARALDA",
@@ -5396,7 +5444,8 @@
   "Departamento": "RISARALDA",
   "Municipio": "PEREIRA",
   "Centro poblado": "PEREIRA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "RISARALDA",
@@ -5456,7 +5505,8 @@
   "Departamento": "SANTANDER",
   "Municipio": "BARRANCABERMEJA",
   "Centro poblado": "BARRANCABERMEJA, DISTRITO ESPECIAL, PORTUARIO, BIODIVERSO, INDUSTRIAL Y TURISTICO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "SANTANDER",
@@ -5890,7 +5940,8 @@
   "Departamento": "SANTANDER",
   "Municipio": "SOCORRO",
   "Centro poblado": "SOCORRO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "SANTANDER",
@@ -6234,7 +6285,8 @@
   "Departamento": "TOLIMA",
   "Municipio": "IBAGUE",
   "Centro poblado": "IBAGUE",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "TOLIMA",
@@ -6439,7 +6491,8 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "CALI",
   "Centro poblado": "SANTIAGO DE CALI, DISTRITO ESPECIAL, DEPORTIVO, CULTURAL, TURISTICO, EMPRESARIAL Y DE SERVICIOS",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6451,13 +6504,15 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "CANDELARIA",
   "Centro poblado": "CANDELARIA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "CARTAGO",
   "Centro poblado": "CARTAGO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6499,14 +6554,15 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "GINEBRA",
   "Centro poblado": "GINEBRA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "GUACARI",
   "Centro poblado": "GUACARI",
-  "TRANSPORTADORA": "NO HAY CUBRIMIENTO",
-  "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "NO HAY OFICINA, SOLO A ENTREGA A RESIDENCIA "
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6518,7 +6574,8 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "JAMUNDI",
   "Centro poblado": "JAMUNDI",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6549,7 +6606,8 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "PALMIRA",
   "Centro poblado": "PALMIRA",
-  "TRANSPORTADORA": "COORDINADORA"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6603,7 +6661,8 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "TULUA",
   "Centro poblado": "TULUA",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6633,7 +6692,8 @@
   "Departamento": "VALLE DEL CAUCA",
   "Municipio": "YUMBO",
   "Centro poblado": "YUMBO",
-  "TRANSPORTADORA": "INTERRAPIDISIMO"
+  "TRANSPORTADORA": "COORDINADORA",
+  "RESTRICCIÓN": "Consulta Puntos Droop en: https:\/\/coordinadora.com\/puntos-droop\/visitanos\/"
  },
  {
   "Departamento": "VALLE DEL CAUCA",
@@ -6689,4 +6749,3 @@
   "RESTRICCIÓN": "NO HAY CUBRIMIENTO"
  }
 ]
-}
